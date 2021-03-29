@@ -1,0 +1,51 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex: 1;
+  min-width: 100%;
+  height: 40px;
+}
+.navbar__menu {
+  font-size: 15px;
+  cursor: pointer;
+  font-weight: 800;
+  font-family: "Open Sans Condensed", sans-serif;
+}
+.first:hover {
+  color: rgb(107, 184, 107);
+  font-weight: 800;
+  font-size: 20px;
+}
+.second:hover {
+  color: rgb(107, 184, 107);
+  font-weight: 800;
+  font-size: 20px;
+}
+.third:hover {
+  color: rgb(107, 184, 107);
+  font-weight: 800;
+  font-size: 20px;
+}
+.fourth:hover {
+  color: rgb(107, 184, 107);
+  font-weight: 800;
+  font-size: 20px;
+}
+.fifth:hover {
+  color: rgb(107, 184, 107);
+  font-weight: 800;
+  font-size: 20px;
+}
+.sixth:hover {
+  color: rgb(107, 184, 107);
+  font-weight: 800;
+  font-size: 20px;
+}
+
+.sixth {
+  margin-right: 15px;
+}
+.first {
+  margin-left: 15px;
+}

@@ -1,0 +1,117 @@
+.shirt {
+  display: flex;
+  align-items: center;
+  min-width: 100%;
+  margin-top: 20px;
+  background-color: whitesmoke;
+}
+
+.shirt__left {
+  flex: 0.3;
+  min-width: 30%;
+}
+.left__component {
+  min-width: 100%;
+  margin-left: 60px;
+}
+.price {
+  background-color: rgb(107, 184, 107);
+  height: 50px;
+  padding: 10px;
+
+  font-family: "Roboto", sans-serif;
+  margin-bottom: 20px;
+  color: white;
+}
+.seller__detail {
+  min-width: 100%;
+  border: 1px solid grey;
+  font-family: "Roboto", sans-serif;
+}
+.seller {
+  background-color: #4a4a4a;
+  height: 50px;
+  color: white;
+  font-size: 16px;
+  padding: 10px;
+}
+.name {
+  display: flex;
+  align-items: center;
+  margin-left: 100px;
+  font-family: "Roboto", sans-serif;
+
+  padding: 10px;
+}
+.name__icon {
+  margin-right: 10px;
+}
+.phone {
+  width: 300px;
+  font-family: "Roboto", sans-serif;
+  background-color: rgb(107, 184, 107);
+  display: flex;
+  border-radius: 4px;
+  align-items: center;
+  padding: 10px;
+  margin-left: 40px;
+  margin-top: 10px;
+  justify-content: center;
+  color: white;
+  font-size: 18px;
+}
+.email {
+  width: 300px;
+  font-family: "Roboto", sans-serif;
+  background-color: #4a4a4a;
+  display: flex;
+  align-items: center;
+  border-radius: 4px;
+  padding: 10px;
+  margin-left: 40px;
+  margin-top: 30px;
+  justify-content: center;
+  color: white;
+  font-size: 18px;
+  margin-bottom: 30px;
+}
+.tips__detail {
+  min-width: 100%;
+  border: 1px solid grey;
+  font-family: "Roboto", sans-serif;
+  border: 1px solid grey;
+  font-family: "Roboto", sans-serif;
+}
+.slider {
+  width: 340px;
+  margin-left: 30px;
+}
+.tips__items {
+  height: 150px;
+  min-width: 50px;
+}
+.tips {
+  padding: 30px;
+}
+.tipsno {
+  margin-left: 100px;
+  margin-bottom: 10px;
+}
+.email__icon {
+  margin-right: 10px;
+}
+.phone__icon {
+  margin-right: 15px;
+}
+
+.shirt__right {
+  flex: 0.7;
+  min-width: 70%;
+  background-color: pink;
+}
+.image {
+  width: 300px;
+  height: 300px;
+  margin-bottom: 100px;
+  padding: 20px;
+}

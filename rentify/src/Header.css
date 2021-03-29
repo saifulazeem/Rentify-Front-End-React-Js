@@ -1,0 +1,64 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  flex: 1;
+  background-color: #4a4a4a;
+  height: 70px;
+  min-width: 100%;
+}
+
+.header__left {
+  flex: 0.8;
+}
+
+.header__logo {
+  color: rgb(107, 184, 107);
+  font-family: "Allerta Stencil";
+  letter-spacing: 0.2rem;
+  margin-left: 30px;
+  font-size: 28px;
+}
+
+.header__right {
+  flex: 0.2;
+  display: flex;
+  align-items: center;
+  padding: 5px;
+}
+
+.header__favIcon {
+  color: rgb(107, 184, 107);
+  margin-right: 5px;
+}
+.header__favIcon:hover {
+  color: whitesmoke;
+}
+
+.header__postAd {
+  height: 40px;
+  width: 100px;
+  border-radius: 4px;
+  background-color: rgb(107, 184, 107);
+  color: whitesmoke;
+  font-weight: 600;
+  margin-left: 10px;
+}
+.header__postAd:hover {
+  color: rgb(107, 184, 107);
+  background-color: whitesmoke;
+}
+
+.header__login {
+  height: 40px;
+  width: 70px;
+  border-radius: 4px;
+  background-color: rgb(107, 184, 107);
+  color: whitesmoke;
+  font-weight: 600;
+  margin-left: 20px;
+}
+.header__login:hover {
+  color: rgb(107, 184, 107);
+  background-color: whitesmoke;
+}

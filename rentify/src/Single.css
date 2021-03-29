@@ -1,0 +1,49 @@
+.main-product
+{
+    border: 1px solid #e2e2e2;
+    border-radius: 5px;
+    padding-top: 5px;
+    color: #4d4d4d;
+}
+
+.rent-price
+{
+    border: 1px solid #e2e2e2;
+    background-color: rgb(63, 184, 101);
+    border-radius: 50px 20px;
+    padding: 10px;
+    color: #fff;
+    text-align: center;
+}
+.product-image
+{
+    text-align: center;
+}
+
+.product-info
+{
+    border: 1px solid #e2e2e2 ;
+    padding: 10px;
+    border-radius: 2px;
+}
+.product-description
+{
+    border: 1px solid #e2e2e2 ;
+    padding: 10px;
+    border-radius: 2px;
+}
+.titles
+{
+    background-color: rgb(24, 41, 63);
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+.seller-contact
+{
+    text-align: center;
+}
+.seller-contact img
+{
+    border-radius: 50%;
+}

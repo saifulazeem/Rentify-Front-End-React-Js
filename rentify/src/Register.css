@@ -1,0 +1,129 @@
+.register {
+  width: 400px;
+  height: 600px;
+  margin: 0 auto;
+  border-radius: 4px;
+  border: 2px solid grey;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: whitesmoke;
+}
+::placeholder {
+  margin-left: 5px;
+  padding: 10px;
+}
+.title {
+  text-align: center;
+  font-size: 20px;
+  margin-bottom: 7px;
+  color: black;
+}
+.input__types {
+  display: grid;
+  width: 350px;
+  padding: 20px;
+}
+.input {
+  border: 1px solid grey;
+  height: 40px;
+  width: 350px;
+  outline-style: none;
+  border-radius: 5px;
+}
+.input:focus {
+  font-size: small;
+  color: black;
+  border: 2px solid black;
+}
+.birthday {
+  font-size: 23px;
+  margin-top: 10px;
+}
+.birthday__component {
+  display: flex;
+  align-items: center;
+  margin-top: -10px;
+  margin-left: 3px;
+}
+.month__dropdownList {
+  width: 120px;
+  height: 40px;
+  background-color: green;
+  margin-left: 15px;
+}
+.month__dropdown {
+  height: 40px;
+  width: 120px;
+}
+
+.days__dropdownList {
+  width: 120px;
+  height: 40px;
+}
+.days__dropdown {
+  height: 40px;
+  width: 120px;
+}
+
+.date__dropdownList {
+  width: 120px;
+  height: 40px;
+}
+.date__dropdown {
+  height: 40px;
+  width: 120px;
+}
+
+.checkboxWithText {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.checkbox {
+  width: 20px;
+  height: 20px;
+  margin-left: 10px;
+}
+.checkbox_text {
+  margin-left: 10px;
+  font-size: 16px;
+}
+.button_signup {
+  width: 100%;
+}
+.btn__signup {
+  border-radius: 999px;
+  height: 50px;
+  width: 350px;
+  background-color: rgb(107, 184, 107);
+  text-decoration: none;
+  margin-left: 20px;
+  margin-top: 20px;
+  color: black;
+  outline-style: none;
+}
+.btn__signup:hover {
+  background-color: pink;
+}
+.already__account {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.alreadyText {
+  font-size: 18px;
+  margin-left: 30px;
+  margin-top: 20px;
+  color: black;
+}
+.already__login {
+  margin-right: 20px;
+  margin-top: 20px;
+  width: 100px;
+  height: 50px;
+  border-radius: 4px;
+  background-color: lightgrey;
+}
+.already__login:hover {
+  color: rgb(107, 184, 107);
+}

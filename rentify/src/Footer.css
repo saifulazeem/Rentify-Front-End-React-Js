@@ -1,0 +1,87 @@
+.footer-background
+{
+    background-color: #383838;
+    padding: 10px;
+    color: rgb(107, 184, 107);
+    font-family: "Allerta Stencil";
+    
+}
+.footer-description
+{
+    text-align: justify;
+    padding: 20px;
+    
+}
+
+
+
+
+
+
+/* .footer {
+  display: flex;
+  flex: 1;
+  background-color: #383838;
+  height: 200px;
+}
+.footer__left {
+  flex: 0.7;
+}
+.footer__leftlogo {
+  font-size: 38px;
+  padding: 30px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 800;
+  color: whitesmoke;
+}
+.footer__leftdesc {
+  font-size: 16px;
+  width: 800px;
+  color: rgb(107, 184, 107);
+  margin-left: 20px;
+  margin-top: -20px;
+}
+
+.footer__right {
+  flex: 0.3;
+}
+
+.footer__rightheading {
+  color: whitesmoke;
+  padding: 10px;
+  margin-top: 30px;
+  font-size: 26px;
+  font-family: "Nunito", sans-serif;
+}
+.footer__icons {
+  display: flex;
+  align-items: center;
+  margin-left: 15px;
+}
+.fb__icon {
+  color: white;
+}
+.fb__icon:hover {
+  color: rgb(107, 184, 107);
+}
+.twitter__icon {
+  color: white;
+}
+.twitter__icon:hover {
+  color: rgb(107, 184, 107);
+}
+.insta__icon {
+  color: white;
+}
+.insta__icon:hover {
+  color: rgb(107, 184, 107);
+}
+.footer__rightreserved {
+  color: white;
+  font-size: 16px;
+  margin-top: 25px;
+}
+.rentable__footer {
+  color: rgb(107, 184, 107);
+  font-size: 16px;
+} */
